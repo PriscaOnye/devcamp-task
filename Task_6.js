@@ -28,6 +28,9 @@ function GetThreeAddition(array, sum) {
       }
     }
   }
+
+  // After the loops are complete, Return -1
+  return -1;
 }
 
 // Testing
